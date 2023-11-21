@@ -2,7 +2,8 @@ import sys
 import openpyxl
 
 if len(sys.argv) != 4:
-    print('Error')
+    print('引数の数が間違っています')
+    print('例：python blankRowInserter.py (空白を挿入開始する行数) （挿入する空白行数）')
 else:
     blank_start_row = int(sys.argv[1])
     blank_row_num = int(sys.argv[2])
