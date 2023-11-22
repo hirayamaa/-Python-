@@ -1,0 +1,6 @@
+# EZSheets用の認証ファイル
+/Chapter14/credentials-sheets.json
+/Chapter14/token-drive.pickle
+/Chapter14/token-sheets.pickle
+# DS_Store
+.DS_Store
