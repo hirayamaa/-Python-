@@ -2,5 +2,8 @@
 /Chapter14/credentials-sheets.json
 /Chapter14/token-drive.pickle
 /Chapter14/token-sheets.pickle
+/Chapter18/credentials.json
+/Chapter18/token.json
+/Chapter18/emaildict.py
 # DS_Store
 .DS_Store
